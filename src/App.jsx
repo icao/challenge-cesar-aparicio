@@ -1,8 +1,11 @@
 import './App.css'
-const sdfjsd = "sdhfkjshdfk"
 
 function App() {
-  return <div className="App"></div>
+  return (
+    <div className="App">
+      <h1>Test project</h1>
+    </div>
+  )
 }
 
 export default App
